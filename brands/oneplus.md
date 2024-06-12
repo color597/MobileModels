@@ -346,9 +346,15 @@
 
 `CPH2467`: OnePlus Nord CE 3 Lite 印度版
 
-**OnePlus Nord CE4:**
+**OnePlus Nord CE 4:**
 
 `CPH2613`: OnePlus Nord CE4 印度版
+
+**OnePlus Nord CE 4 Lite:**
+
+`CPH2619`: OnePlus Nord CE4 Lite 印度版
+
+`CPH2621`: OnePlus Nord CE4 Lite 欧洲版
 
 **OnePlus Nord N10 (`billie8`):**
 
